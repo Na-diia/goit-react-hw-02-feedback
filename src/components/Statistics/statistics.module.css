@@ -1,0 +1,13 @@
+.wrap {
+    margin-left: 15px;
+}
+
+.list {
+    list-style: none;
+}
+
+.list__item {
+    margin-bottom: 10px;
+    color: #030317 ;
+    font-weight: 500;
+}
